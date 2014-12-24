@@ -1,7 +1,8 @@
 public class Application {
  
     public static void main(String[] args) {
-        System.out.println("Hello John!");
+        System.out.println("It works!");
     }
  
 }
+
